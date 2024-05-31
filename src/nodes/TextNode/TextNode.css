@@ -1,0 +1,16 @@
+.text-updater-node {
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+  background: white;
+}
+
+.text-updater-node label {
+  display: block;
+  color: #777;
+  font-size: 12px;
+}
+
+.wrapperNode {
+  box-shadow: 'offset-x offset-y blur-radius spread-radius color';
+}
